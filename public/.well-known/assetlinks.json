@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.elokehila.app",
+      "sha256_cert_fingerprints": [
+        "CA:54:92:96:86:EF:F5:4B:49:BF:76:A4:D4:1E:98:1E:F7:10:38:68:05:58:5D:56:8F:FF:58:17:50:FE:8E:CF"
+      ]
+    }
+  }
+]

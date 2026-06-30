@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "N43SZKMCQZ.com.elokehila.app",
+        "paths": [
+          "/tournament/*"
+        ]
+      }
+    ]
+  }
+}
