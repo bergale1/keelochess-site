@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.elokehila.app",
       "sha256_cert_fingerprints": [
-        "CA:54:92:96:86:EF:F5:4B:49:BF:76:A4:D4:1E:98:1E:F7:10:38:68:05:58:5D:56:8F:FF:58:17:50:FE:8E:CF"
+        "CA:54:92:96:86:EF:F5:4B:49:BF:76:A4:D4:1E:98:1E:F7:10:38:68:05:58:5D:56:8F:FF:58:17:50:FE:8E:CF",
+        "B4:F1:EE:7B:F1:E3:63:C7:CD:0F:37:21:DC:E8:B1:D6:D5:0D:0C:0D:E1:3D:AE:E0:B3:6F:08:F3:46:94:C7:74"
       ]
     }
   }
